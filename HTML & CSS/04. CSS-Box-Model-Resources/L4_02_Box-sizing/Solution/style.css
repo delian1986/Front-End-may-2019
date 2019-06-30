@@ -1,0 +1,29 @@
+html{
+    box-sizing: inherit;
+}
+
+section{
+    border: dotted red 1px;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+
+h1{
+    padding: auto;
+}
+
+p{
+    width: 100%;
+    padding: 20px;
+    border: solid red 1px;
+}
+
+
+/* 
+Use section tag to create a section
+In the section you have:
+h1 heading with content "Front End"
+paragraph with content "I like HTML and CSS!"
+The section has width 250px, height 250px and border
+The paragraph has width 100%, border and padding 20px on all sides */
