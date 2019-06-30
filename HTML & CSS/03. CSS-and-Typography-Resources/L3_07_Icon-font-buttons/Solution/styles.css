@@ -1,0 +1,20 @@
+@import url("https://cdnjs.cloudflare.com/…/font…/5.8.2/css/all.min.css");
+p{
+    padding: 1em;
+    margin: 1em;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+.click{
+    margin-top: 2em;
+ background-color: green;
+}
+
+.email{
+    background-color: orange;
+}
+

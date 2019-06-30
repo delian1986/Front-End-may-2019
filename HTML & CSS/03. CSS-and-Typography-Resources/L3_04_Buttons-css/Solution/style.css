@@ -1,0 +1,45 @@
+@import url('https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay');
+
+body {
+    background: rgb(194, 191, 191);
+}
+
+html {
+    font: 16px/1.5 Verdana, sans-serif;
+}
+
+a, button, .button, input[type="button"] {
+    border-radius: 25px;
+    display: inline-block;
+    padding: 1rem;
+    border: 2px solid black;
+    text-decoration: none;
+    font-size: 1rem;
+    line-height: 1;
+    background: rgb(51, 51, 51);
+}
+
+.button.fill, button.fill {
+    background: black;
+    color: white;
+}
+
+.button:hover,
+button:hover{
+    color: #090;
+    border-color: currentColor;
+    background: #FFF;
+}
+
+.hover
+{
+    color: #090;
+    border-color: currentColor;
+    background: #FFF;
+}
+
+.fill,.hover{
+    color: rgb(0, 102, 0);
+    border-color: currentColor;
+    background: #FFF;
+}
